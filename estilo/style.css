@@ -96,6 +96,7 @@ div#q1{
     
      
     div#q2 {
+        border-radius: 20px;
         display: inline-block;
         margin: 20px;
         width: 329px;
@@ -150,6 +151,5 @@ div#q1{
         margin: auto;
         min-width: 300px;
         max-width: 1500px;
-        
-            }
+        }
         
