@@ -58,12 +58,14 @@ nav {
     min-width: 300px;
     max-width: 1500px;
 }
-nav > a{
+nav > a img{
    color: aliceblue;
-   padding: 20px;
    font-weight: bolder;
    transition-duration: .5s;
    border-radius: 5pt;
+   width: 30px;
+   margin: 10px;
+
 }
 nav >a:hover{
     background-color: rgba(246, 132, 26, 0.886);
@@ -78,8 +80,9 @@ div#q1{
     width: 329px;
     height: 300px;
     box-shadow: 8px 10px 7px black;
-    background-image: url(Dani2.jpg);
+    background-image: url(logo-ifood.png)
     }
+
     
      
     div#q2 {
